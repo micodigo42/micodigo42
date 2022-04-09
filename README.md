@@ -5,7 +5,7 @@
 
 ##
 <div>
-  <img align="right" alt="mi.gif" height="150" style="border-radius:50px;" src="https://im.ezgif.com/tmp/ezgif-1-de6574d13d.gif">
+  <img align="right" alt="mi.gif" height="150" style="border-radius:50px;" src="https://media4.giphy.com/media/qcwYIvOwGtCU1y0r8h/giphy.gif?cid=790b7611dbf93d696e13e4d28b395a14a9de0b1d699b1533&rid=giphy.gif&ct=g">
   <a href="mailto:milenegabrielesantos.contato@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/milenesantos42/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="https://instagram.com/mizinha.block" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
