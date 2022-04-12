@@ -23,4 +23,7 @@
 
 <div align="center">
   <a href="https://github.com/micodigo42">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=micodigo42&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=micodigo42&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"
+/div>
+    
+![Snake animation](https://github.com/micodigo42/micodigo42/blob/output/github-contribution-grid-snake.svg)
